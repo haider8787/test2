@@ -3,6 +3,10 @@
 1 npm install
 
 2 react-native run-ios
+ 
+if error 65, then 
+
+sudo react-native run-ios
 
 3 react-native run-andriod
 
