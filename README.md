@@ -1,4 +1,4 @@
-###How to Build and run the app:
+### How to Build and run the app:
 
 1 npm install
 
